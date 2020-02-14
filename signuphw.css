@@ -1,0 +1,25 @@
+h1{
+background-color: #0CE7B5
+}
+h1{
+  color:#ECEEEE
+}
+
+body{
+
+background-color: #A3C1BA
+}
+.loginbox{
+  width: 320px;
+  height: 420px;
+  background-color: white;
+  color: black;
+  top: 50%;
+  left: 50%;
+  position:absolute;
+  margin: -20%;
+
+}
+button{
+  background-color: #0CE7B5;
+}
